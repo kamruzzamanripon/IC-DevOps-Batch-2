@@ -9,8 +9,8 @@
 
 
 ## Assignment 6 [Kubernetes Assignment]
-- Project -- Kubernetes Assignment - Dockerfile | git action | kubernets
-- [Project Link](https://github.com/kamruzzamanripon/dockerize-two-app)
+- Project -- Monitoring Assignment
+- [Project Link](https://github.com/kamruzzamanripon/k8-node-react-mongodb-app)
 
 
 
